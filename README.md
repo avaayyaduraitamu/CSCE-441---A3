@@ -3,6 +3,7 @@
 ## Student Information
 **Name:** Avanthika Ayyadurai  
 **UID:** 134004469
+
 **Email:** avaayyaduraitamu@tamu.edu
 
 ## Highest Task Completed
